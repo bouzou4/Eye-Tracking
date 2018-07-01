@@ -56,6 +56,8 @@ module.exports = {
       'window.$': 'jquery',
       jQuery: 'jquery',
       'window.jQuery': 'jquery',
+      tracking: 'tracking',
+      'window.tracking': 'tracking',
     })
   ]
 };

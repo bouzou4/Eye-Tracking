@@ -1,4 +1,5 @@
 import 'normalize.css';
+import 'tracking';
 import './js/main.js';
 import './styles/helper.scss';
 import './styles/styles.scss';
